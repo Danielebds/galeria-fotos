@@ -2,6 +2,7 @@
 
 Este projeto é uma aplicação simples de galeria de fotos que permite aos usuários buscar imagens através da API do Pixabay. A aplicação exibe imagens sugeridas conforme o usuário digita e realiza a pesquisa ao clicar no botão.
 
+🔗 **[Galeria de Fotos - Site](https://galeria-fotos-site.vercel.app/)**
 ## Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário interativas.
